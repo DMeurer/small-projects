@@ -69,7 +69,7 @@ def generate_board(num):
 
 
 """
-This solution works, but ic cold create boards that are not possible.
+This solution works, but it cold create boards that are not possible.
 
 def generate_board(num):
     bo = [[0 for x in range(9)] for y in range(9)]
