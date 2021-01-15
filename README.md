@@ -1,6 +1,6 @@
 # small-projects
 
-![Python minimum version](https://img.shields.io/badge/Projects-3-brightgreen)
+![Python minimum version](https://img.shields.io/badge/Projects-5-brightgreen)
 
 Just a few small programs to learn how to code.
 for example:
