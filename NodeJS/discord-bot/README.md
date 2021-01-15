@@ -1,7 +1,9 @@
 # Discord-Bot
 
-This Bot is only for my own Discord Server.
+This is a bot for my own Discord Server.
 You can join the [Domi-Dev Discord Server](https://discord.gg/ATBarFq7Va "Domi-Dev Discord Server") here.
+
+To use this code u have to install NodeJS and Discord.js
 
 ***
 
