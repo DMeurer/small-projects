@@ -1,4 +1,4 @@
-# copy and caste in Excel
+# copy and paste in Excel
 
 This code won't be useful to you as i made it for a very specific use case.
 
