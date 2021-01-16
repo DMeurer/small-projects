@@ -1,12 +1,7 @@
-
-[How Can I Contribute?](#how-can-i-contribute)
   * [Reporting Bugs](#reporting-bugs)
   * [Suggesting Enhancements](#suggesting-enhancements)
   * [Code Contribution](#code-contribution)
   * [Pull Requests](#pull-requests)
-
-
-## How Can I Contribute?
 
 ### Reporting Bugs
 
@@ -52,6 +47,14 @@ We try to keep programs and scripts as simple and understandable as possible. So
 
 If you want to add comments or more documentary to a something you can edit the existing file.
 
+To contribute a new project make sure u did this
+
+- Add comments to your code. Nobody will understand your code if you don't comment it.
+- Every new script will get its own folder **with a README.md file**.
+- Note your requirements. Write your requirements in the read-me file or in a different file called requirements.
+- The folder with the new project has to be in the folder of the right language/framework.
+- If you made a new script, add your project-name to the projects.json. If your language/framework doesn't exist in this file, create a new array in the json file whit the name of your language/framework.
+
 ### Pull Requests
 
 The process described here has several goals:
@@ -65,5 +68,4 @@ Please follow these steps to have your contribution considered by the maintainer
 
 - choose a descriptive title
 - description what your code should do
-- if you made a new script, add your project-name to the projects.json
 - if you coded this because of an issue, please add the issue number
