@@ -20,3 +20,5 @@ This can help beginners to get some ideas of what is possible to do even if they
 Additionally this gives them possible solution with a good documentation and much comments. This will help beginners to find they own solution.
 
 You can create a pull request for spelling mistakes too. I am sure that I made a few misspellings as English is not my mother tongue.
+
+But make sure you followed the [contributing guideline](https://github.com/DMeurer/small-projects/blob/main/CONTRIBUTING.md)
