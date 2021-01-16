@@ -1,0 +1,11 @@
+{
+  "python": [
+    "Sudoku-solver",
+    "turtle-drawing",
+    "excel-copy-paste",
+    "whatsapp-desktop-bot"
+  ]
+  "NodeJS": [
+    "discord-bot"
+  ]
+}

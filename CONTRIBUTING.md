@@ -48,16 +48,9 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 
 ### Code Contribution
 
-We try to keep programs and scripts as simple and understandable as possible. So if want do the same as somebody else in a different way, please create a new file.
+We try to keep programs and scripts as simple and understandable as possible. So if want to do the same as somebody else in a different way, please create a new file.
 
 If you want to add comments or more documentary to a something you can edit the existing file.
-
-Unsure where to begin contributing to this Repository? You can start by looking through these `beginner` and `help-wanted` issues:
-
-* [Beginner issues][beginner] - issues which should only require a few lines of code, and a test or two.
-* [Help wanted issues][help-wanted] - issues which should be a bit more involved than `beginner` issues.
-
-Both issue lists are sorted by total number of comments. While not perfect, number of comments is a reasonable proxy for impact a given change will have.
 
 ### Pull Requests
 
@@ -70,4 +63,7 @@ The process described here has several goals:
 
 Please follow these steps to have your contribution considered by the maintainers:
 
-While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be ultimately accepted.
+- choose a descriptive title
+- description what your code should do
+- if you made a new script, add your project-name to the projects.json
+- if you coded this because of an issue, please add the issue number
