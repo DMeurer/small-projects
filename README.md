@@ -1,8 +1,18 @@
 # small-projects
 
+![GitHub](https://img.shields.io/github/license/DMeurer/small-projects)
+
 ![Projects](https://img.shields.io/badge/Projects-5-brightgreen)
 
-![GitHub all releases](https://img.shields.io/github/downloads/DMeurer/small-projects/total)
+![GitHub issues](https://img.shields.io/github/issues/DMeurer/small-projects)
+
+![GitHub closed issues](https://img.shields.io/github/issues-closed/DMeurer/small-projects)
+
+![GitHub contributors](https://img.shields.io/github/contributors/DMeurer/small-projects)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/DMeurer/small-projects)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DMeurer/small-projects)
 
 Just a few small programs to learn how to code.
 for example:
