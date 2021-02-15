@@ -1,6 +1,7 @@
 # small-projects
 
 ![Projects](https://img.shields.io/badge/Projects-5-brightgreen)
+
 ![GitHub all releases](https://img.shields.io/github/downloads/DMeurer/small-projects/total)
 
 Just a few small programs to learn how to code.
